@@ -1,0 +1,501 @@
+Género,Edad,Interés Principal,Daniella Chávez,Arturo Vidal,Alexis Sánchez,Claudio Bravo,Nova,Mon Laferte,Paloma Mami,Simón Salas,Pancho Saavedra,Gary Medel,Denise Rosenthal,Chispeza Chilensis,Gala Caldirola,Pailita,Cris MJ,La Roja,Elyanna,María José López,Benjamín Vicuña,El Mago Palo
+Femenino,29,Medios y Televisión,3,1,3,3,8,7,2,9,3,5,9,2,3,1,6,3,1,5,1,3
+Masculino,29,Entretenimiento Digital,7,4,5,4,4,10,6,5,8,2,4,1,7,2,1,2,1,6,1,3
+Masculino,36,Deportes,7,8,7,6,6,3,7,7,3,10,3,8,4,1,3,6,5,7,10,9
+Femenino,25,Lifestyle y Belleza,7,2,5,5,9,4,10,9,1,3,2,4,8,5,4,3,2,10,2,10
+Femenino,23,Lifestyle y Belleza,7,5,1,2,5,2,3,9,10,4,9,5,8,6,9,3,8,8,2,4
+Femenino,30,Medios y Televisión,3,1,2,3,4,3,8,1,5,4,2,6,5,10,6,5,3,4,1,2
+Femenino,21,Música y Arte,3,4,5,2,8,9,2,1,2,5,6,8,6,9,4,3,1,6,8,3
+Masculino,40,Medios y Televisión,6,1,5,4,9,3,8,3,10,2,5,8,7,8,1,3,2,5,6,3
+Femenino,33,Lifestyle y Belleza,9,2,4,1,4,5,5,6,6,3,5,7,8,7,8,5,10,10,6,7
+Masculino,36,Deportes,4,8,7,10,3,2,2,2,10,10,4,4,3,5,2,9,10,7,10,8
+Femenino,19,Música y Arte,3,5,1,2,8,4,7,10,9,1,6,6,3,3,8,4,7,4,10,6
+Masculino,33,Deportes,4,7,7,9,5,7,2,1,1,7,5,4,7,9,6,7,6,6,9,4
+Masculino,40,Deportes,6,8,10,7,2,7,6,1,4,9,4,7,5,5,8,6,8,3,5,6
+Femenino,34,Lifestyle y Belleza,7,4,4,5,10,3,10,5,1,4,9,1,9,3,6,4,7,9,4,1
+Femenino,20,Entretenimiento Digital,5,1,3,2,9,5,3,4,1,4,6,5,5,3,5,2,10,5,6,10
+Femenino,25,Medios y Televisión,5,3,3,4,3,1,9,1,8,5,10,10,5,3,5,3,8,3,8,8
+Femenino,28,Lifestyle y Belleza,8,5,5,2,2,10,3,4,2,2,10,10,9,6,10,4,3,10,1,1
+Femenino,28,Lifestyle y Belleza,7,3,2,5,1,10,3,3,1,2,10,4,8,1,10,4,6,9,7,5
+Femenino,25,Lifestyle y Belleza,8,4,3,4,8,10,5,2,8,1,3,7,7,4,8,2,7,8,8,2
+Femenino,31,Medios y Televisión,4,5,4,4,3,1,7,9,4,4,10,9,4,8,7,1,10,3,9,6
+Femenino,22,Música y Arte,7,3,3,2,7,5,8,1,3,1,6,5,5,3,8,2,1,6,8,9
+Femenino,27,Lifestyle y Belleza,10,4,1,2,1,10,7,7,4,4,1,4,7,5,8,1,1,7,7,5
+Femenino,28,Lifestyle y Belleza,9,1,2,1,1,9,9,4,5,1,5,9,7,2,7,4,7,8,3,4
+Femenino,30,Lifestyle y Belleza,10,4,5,5,9,1,5,5,1,4,10,5,7,2,2,1,3,9,2,2
+Femenino,31,Medios y Televisión,4,5,1,1,8,1,10,10,1,1,6,9,6,7,9,3,3,6,3,3
+Masculino,33,Medios y Televisión,3,2,1,4,3,4,3,5,3,4,8,8,5,10,7,5,5,7,4,6
+Femenino,20,Lifestyle y Belleza,8,1,2,2,6,4,6,1,6,1,9,4,10,3,6,1,6,7,4,8
+Femenino,34,Lifestyle y Belleza,9,3,5,4,3,2,5,6,1,2,3,7,8,5,9,5,2,10,6,8
+Femenino,29,Lifestyle y Belleza,7,5,4,4,4,9,4,9,2,5,2,5,8,3,1,3,3,10,7,5
+Femenino,24,Entretenimiento Digital,6,2,5,3,1,9,2,2,7,1,4,10,5,6,2,5,6,3,4,5
+Femenino,35,Lifestyle y Belleza,7,4,3,3,5,2,7,7,1,5,8,4,9,10,1,3,3,10,10,10
+Femenino,28,Medios y Televisión,4,2,1,4,1,9,5,6,7,2,8,5,5,3,10,5,5,6,6,3
+Femenino,33,Medios y Televisión,4,5,3,2,1,6,4,5,4,2,3,5,3,8,3,5,9,6,9,7
+Masculino,33,Deportes,7,7,9,9,10,8,8,4,10,6,4,9,3,2,5,10,3,3,6,6
+Masculino,39,Deportes,6,8,8,7,7,10,9,4,6,6,3,9,4,3,1,9,6,4,3,1
+Masculino,24,Deportes,4,6,7,9,6,4,9,6,8,8,10,6,5,8,4,8,5,4,1,4
+Femenino,26,Medios y Televisión,5,2,3,4,2,2,3,4,9,4,2,4,5,8,8,4,5,5,10,6
+Femenino,32,Medios y Televisión,5,5,4,5,2,2,3,5,6,5,4,2,6,1,6,2,6,7,10,6
+Femenino,31,Medios y Televisión,7,5,4,5,7,9,5,6,9,1,6,3,6,8,1,1,6,5,5,3
+Femenino,34,Lifestyle y Belleza,10,3,4,4,1,1,5,5,4,1,5,2,10,10,1,2,1,7,10,6
+Femenino,23,Lifestyle y Belleza,7,3,5,2,2,7,10,7,6,2,3,5,7,2,3,1,9,8,10,10
+Femenino,31,Música y Arte,3,1,4,4,8,3,2,9,8,3,2,6,5,7,10,3,5,3,3,6
+Femenino,33,Medios y Televisión,3,5,1,4,6,3,1,10,9,1,9,5,6,6,8,5,1,7,8,9
+Masculino,31,Deportes,7,10,9,9,2,2,8,7,3,10,1,2,5,2,8,10,8,6,10,9
+Femenino,22,Entretenimiento Digital,7,2,3,5,7,10,3,7,2,5,9,5,6,5,3,2,7,7,1,2
+Femenino,17,Música y Arte,7,4,3,3,4,6,1,4,6,1,1,9,5,7,7,2,7,5,2,4
+Femenino,26,Lifestyle y Belleza,9,2,3,3,2,10,1,1,4,5,7,4,7,8,3,2,5,10,3,9
+Femenino,31,Medios y Televisión,7,4,5,4,6,2,2,8,1,5,6,10,6,3,4,2,1,6,3,4
+Femenino,35,Medios y Televisión,5,3,3,3,9,10,6,4,8,2,7,2,4,1,9,5,9,5,8,8
+Femenino,28,Medios y Televisión,3,1,5,5,9,4,6,1,9,3,3,3,7,7,4,1,9,6,5,10
+Masculino,24,Deportes,3,6,10,7,8,10,3,5,9,6,3,3,5,5,3,8,8,4,8,3
+Masculino,36,Deportes,3,6,10,9,3,9,4,8,2,10,1,9,6,5,5,9,5,5,6,3
+Masculino,33,Música y Arte,4,2,1,3,3,9,2,4,9,5,4,4,7,7,7,5,3,5,2,9
+Masculino,28,Deportes,4,10,10,8,2,6,2,8,7,10,2,1,4,1,5,7,8,4,4,10
+Femenino,29,Lifestyle y Belleza,9,3,4,3,5,4,7,8,5,5,10,1,10,8,4,3,1,10,9,8
+Masculino,38,Deportes,6,6,10,8,4,7,1,3,7,8,8,7,7,10,8,7,3,7,4,1
+Femenino,17,Lifestyle y Belleza,9,2,5,2,7,1,7,9,9,2,3,7,8,5,4,1,7,9,5,10
+Femenino,27,Medios y Televisión,4,1,3,5,4,4,1,3,8,2,7,2,7,8,2,4,4,6,5,2
+Femenino,21,Entretenimiento Digital,4,1,3,5,9,5,6,1,6,4,7,9,3,10,10,3,7,4,10,3
+Femenino,31,Lifestyle y Belleza,9,3,4,5,2,8,3,2,4,1,9,9,10,10,6,2,5,10,8,2
+Femenino,29,Lifestyle y Belleza,8,3,2,1,6,2,8,6,1,4,6,5,10,5,2,1,6,8,6,3
+Femenino,23,Lifestyle y Belleza,7,5,2,3,7,5,6,10,6,4,1,3,10,7,3,4,7,9,10,8
+Masculino,31,Música y Arte,6,1,3,5,4,6,2,2,3,3,8,3,6,10,1,1,10,6,7,6
+Femenino,22,Música y Arte,7,5,2,1,6,5,8,6,6,5,1,3,7,3,5,1,7,6,6,7
+Femenino,27,Lifestyle y Belleza,10,4,3,2,7,9,5,1,6,5,3,6,9,2,9,2,7,8,5,10
+Femenino,32,Medios y Televisión,4,5,5,5,4,10,8,1,4,5,5,4,4,6,2,4,7,6,5,10
+Femenino,23,Entretenimiento Digital,6,2,4,5,8,1,8,5,2,1,8,8,6,5,7,1,7,7,3,6
+Masculino,42,Música y Arte,4,5,1,1,9,3,6,10,9,3,9,5,5,9,5,2,3,7,7,1
+Femenino,25,Música y Arte,4,3,4,3,1,2,2,9,2,3,7,1,5,10,2,3,3,5,10,3
+Masculino,39,Deportes,4,10,10,6,7,3,8,8,3,9,9,9,3,4,8,10,7,6,5,1
+Masculino,34,Medios y Televisión,5,2,3,5,9,10,6,3,10,4,3,1,6,3,6,5,2,7,7,10
+Femenino,22,Lifestyle y Belleza,7,5,4,3,10,9,6,3,1,1,5,6,7,9,4,2,2,8,2,9
+Femenino,25,Medios y Televisión,6,4,3,2,5,9,8,1,7,4,10,1,5,8,4,2,3,4,9,9
+Masculino,35,Medios y Televisión,3,4,2,4,2,10,1,3,1,2,8,3,5,6,2,2,4,6,8,5
+Masculino,36,Medios y Televisión,3,2,2,4,10,2,2,1,9,3,1,10,4,1,3,1,6,5,5,4
+Masculino,41,Medios y Televisión,3,5,3,2,6,3,9,8,1,3,8,5,3,10,7,4,8,5,2,9
+Masculino,33,Deportes,4,6,7,7,7,4,8,1,5,10,7,10,5,1,3,10,10,7,6,9
+Femenino,29,Lifestyle y Belleza,8,4,2,2,2,9,7,5,7,1,1,7,9,6,5,2,10,8,8,3
+Femenino,27,Música y Arte,4,1,3,2,2,3,7,9,3,3,10,10,7,3,10,5,7,4,7,5
+Femenino,26,Música y Arte,4,4,3,1,10,7,5,7,9,4,10,8,7,3,6,5,4,7,8,3
+Masculino,27,Deportes,3,10,6,7,10,3,2,4,8,8,6,9,4,6,6,8,2,7,4,10
+Femenino,31,Lifestyle y Belleza,7,5,1,3,1,7,6,9,3,4,1,6,10,3,4,3,2,8,3,2
+Femenino,25,Lifestyle y Belleza,10,5,2,3,4,7,10,9,5,1,2,9,7,10,6,5,4,7,7,1
+Femenino,25,Medios y Televisión,7,5,4,1,7,9,3,2,7,5,5,8,7,6,3,4,6,7,2,10
+Femenino,26,Medios y Televisión,6,3,1,4,9,2,4,10,4,1,2,9,7,5,7,3,3,4,5,2
+Femenino,16,Lifestyle y Belleza,8,5,3,4,3,6,10,10,5,2,10,10,7,4,7,4,6,8,7,8
+Masculino,37,Medios y Televisión,7,4,3,2,7,9,2,6,3,5,1,4,6,8,4,5,5,4,1,8
+Femenino,34,Medios y Televisión,6,2,4,5,7,2,2,4,9,4,6,9,6,2,2,3,5,5,4,3
+Masculino,28,Entretenimiento Digital,5,1,3,2,7,2,8,8,10,5,8,7,3,7,7,2,2,3,2,7
+Femenino,26,Lifestyle y Belleza,9,3,5,2,2,5,8,7,9,5,8,5,8,4,3,5,8,9,6,7
+Femenino,30,Lifestyle y Belleza,9,5,4,5,6,10,10,7,7,4,8,5,10,2,1,3,5,10,1,2
+Masculino,15,Deportes,5,9,6,6,2,10,6,10,10,10,6,1,6,7,2,8,2,5,7,9
+Masculino,20,Deportes,5,9,6,6,6,10,5,9,2,9,3,2,7,1,10,9,7,7,3,3
+Femenino,33,Lifestyle y Belleza,10,2,2,2,10,8,8,5,7,4,1,10,9,4,9,3,9,7,1,2
+Masculino,37,Medios y Televisión,5,3,4,5,3,9,4,6,7,3,2,3,4,9,8,4,9,4,8,3
+Femenino,23,Entretenimiento Digital,4,1,3,3,2,2,4,1,5,3,5,8,3,4,6,3,1,4,7,2
+Femenino,19,Música y Arte,6,5,3,2,6,5,5,6,9,2,10,6,6,3,6,3,7,7,2,8
+Femenino,29,Medios y Televisión,6,3,5,4,2,7,1,2,3,1,5,10,7,10,1,4,9,4,7,5
+Femenino,24,Lifestyle y Belleza,8,4,5,1,5,6,1,6,4,1,10,5,9,10,2,1,6,8,3,3
+Femenino,20,Lifestyle y Belleza,7,4,5,2,2,6,2,9,1,3,1,1,8,2,4,2,1,7,9,5
+Femenino,24,Lifestyle y Belleza,9,3,1,2,3,7,8,8,6,4,1,9,8,3,3,5,2,10,8,8
+Femenino,22,Lifestyle y Belleza,10,5,5,5,3,3,7,9,4,2,9,3,7,1,1,2,4,8,5,7
+Femenino,36,Medios y Televisión,5,3,1,3,6,3,10,10,1,1,2,3,4,10,8,5,4,7,7,6
+Femenino,32,Música y Arte,3,5,5,3,6,10,9,8,2,1,7,2,7,8,7,5,2,7,3,1
+Masculino,33,Deportes,6,6,10,8,10,9,5,3,3,7,10,4,7,1,4,9,8,6,1,10
+Femenino,35,Lifestyle y Belleza,9,3,4,4,3,8,2,8,9,3,4,2,10,3,9,3,2,10,1,1
+Femenino,28,Medios y Televisión,7,5,4,1,3,5,7,6,8,4,7,9,3,3,4,4,3,3,2,1
+Masculino,27,Deportes,3,10,10,8,1,6,8,6,7,8,8,10,7,2,1,7,4,5,8,10
+Femenino,35,Lifestyle y Belleza,10,3,1,2,7,10,7,6,4,1,5,7,7,5,10,1,9,9,1,8
+Femenino,30,Medios y Televisión,4,5,2,3,8,1,7,3,1,5,1,8,7,10,1,1,10,6,5,8
+Femenino,22,Música y Arte,7,5,3,4,2,10,5,10,8,3,4,3,7,3,1,2,1,7,9,7
+Femenino,27,Lifestyle y Belleza,10,1,4,5,4,1,2,1,4,3,10,6,8,3,1,2,8,7,9,6
+Masculino,28,Deportes,6,6,7,9,10,4,6,4,3,6,3,10,6,8,4,6,5,7,2,4
+Masculino,36,Medios y Televisión,5,4,5,2,7,2,4,10,9,1,10,6,6,4,1,1,7,5,7,1
+Femenino,32,Lifestyle y Belleza,9,3,2,5,8,7,10,6,10,2,5,1,7,4,2,3,8,9,1,9
+Masculino,38,Deportes,4,6,9,8,1,2,2,10,4,10,10,6,6,3,4,8,5,7,3,1
+Masculino,32,Medios y Televisión,7,5,3,4,4,10,9,2,4,5,10,3,3,1,7,2,8,4,6,4
+Femenino,30,Lifestyle y Belleza,8,3,1,5,6,2,7,7,9,3,6,3,7,8,2,4,10,7,9,3
+Masculino,36,Medios y Televisión,5,3,2,2,3,5,6,7,2,4,2,3,5,1,8,4,8,6,10,7
+Femenino,25,Lifestyle y Belleza,7,4,1,4,5,4,5,4,5,3,7,10,7,7,7,4,9,8,2,5
+Masculino,38,Música y Arte,7,5,5,5,10,8,3,4,4,3,3,10,7,5,9,4,2,4,7,5
+Masculino,36,Deportes,3,6,6,6,9,4,10,1,9,10,1,8,4,4,6,6,3,6,4,4
+Femenino,28,Lifestyle y Belleza,8,2,1,5,3,6,10,2,5,4,10,5,8,4,4,1,1,8,2,1
+Femenino,23,Lifestyle y Belleza,9,1,4,5,5,5,4,9,9,1,3,4,9,8,6,4,4,9,3,5
+Femenino,29,Lifestyle y Belleza,9,4,3,4,8,2,3,10,9,4,9,9,8,6,4,5,5,9,6,4
+Femenino,27,Música y Arte,6,3,4,2,6,8,8,8,2,1,10,9,5,1,7,5,1,5,10,10
+Masculino,46,Música y Arte,3,2,1,4,4,2,3,8,9,4,6,1,6,10,9,5,8,7,9,8
+Masculino,27,Deportes,3,6,8,7,8,9,7,9,3,7,6,2,7,8,3,6,2,7,8,2
+Femenino,25,Lifestyle y Belleza,8,3,4,1,3,9,7,7,4,4,4,8,9,2,3,3,1,10,10,8
+Femenino,31,Medios y Televisión,6,5,5,2,3,3,7,9,1,5,8,5,3,6,2,5,2,3,9,1
+Femenino,30,Música y Arte,5,5,5,5,4,4,7,10,1,1,5,7,3,9,1,4,5,6,4,4
+Femenino,23,Música y Arte,5,5,1,4,9,8,2,2,1,3,7,1,4,1,1,1,9,5,4,3
+Femenino,28,Lifestyle y Belleza,7,2,3,4,5,9,10,6,9,5,9,10,9,6,3,2,9,8,9,5
+Femenino,31,Lifestyle y Belleza,9,3,2,2,8,3,3,3,8,1,5,5,9,8,7,3,2,8,8,5
+Masculino,35,Medios y Televisión,4,1,3,2,6,5,10,6,5,1,5,3,5,10,9,4,2,6,2,5
+Femenino,30,Lifestyle y Belleza,9,4,5,1,3,8,9,3,5,3,4,10,9,2,2,4,3,7,8,4
+Femenino,24,Música y Arte,7,5,4,3,8,3,3,8,9,2,6,2,5,5,7,2,7,7,1,8
+Masculino,46,Deportes,6,6,10,8,9,7,2,4,3,10,2,2,7,6,1,6,3,4,9,3
+Femenino,24,Música y Arte,3,3,1,3,8,8,9,10,3,3,3,9,5,5,2,4,1,3,9,4
+Masculino,35,Deportes,5,10,8,10,4,10,10,6,7,6,1,4,6,3,6,6,6,3,8,1
+Masculino,32,Medios y Televisión,4,2,1,5,6,3,9,9,9,2,2,4,4,4,5,4,3,4,5,7
+Femenino,28,Lifestyle y Belleza,7,2,2,5,1,2,4,2,6,5,2,7,7,7,8,2,1,7,5,1
+Femenino,29,Medios y Televisión,6,5,1,1,4,10,9,2,2,3,8,10,4,4,2,2,4,3,3,2
+Femenino,23,Lifestyle y Belleza,9,3,1,1,8,7,3,7,1,2,8,10,10,9,1,4,1,8,5,7
+Femenino,31,Lifestyle y Belleza,10,1,2,3,1,9,7,2,2,5,2,2,10,10,7,5,1,10,4,1
+Femenino,19,Música y Arte,3,4,2,2,3,1,7,2,1,4,6,3,5,2,6,4,2,5,1,3
+Femenino,27,Lifestyle y Belleza,10,3,1,4,1,3,8,4,10,1,5,3,8,5,8,1,10,7,9,6
+Femenino,21,Música y Arte,4,3,5,1,9,5,10,9,10,2,3,6,3,8,8,2,8,6,10,6
+Femenino,24,Música y Arte,7,2,2,4,2,3,4,8,9,1,5,3,5,5,2,3,2,4,4,6
+Femenino,28,Medios y Televisión,7,4,3,4,9,1,3,2,10,4,5,5,4,10,8,2,2,3,3,2
+Masculino,23,Deportes,6,9,9,8,4,7,3,8,8,8,5,4,3,8,6,8,10,7,6,2
+Femenino,26,Medios y Televisión,4,3,1,3,2,7,5,4,7,3,3,3,5,8,9,3,10,6,1,6
+Femenino,33,Lifestyle y Belleza,9,5,1,2,4,10,1,2,3,5,3,8,10,9,7,3,8,7,5,10
+Femenino,25,Lifestyle y Belleza,9,3,4,1,10,8,10,10,8,2,4,10,8,10,2,4,6,10,7,5
+Masculino,43,Deportes,5,6,10,10,6,5,3,7,2,8,7,3,3,6,8,10,4,3,2,7
+Femenino,22,Lifestyle y Belleza,9,4,4,2,7,10,6,6,2,5,2,6,8,4,9,4,3,10,10,7
+Femenino,30,Medios y Televisión,6,2,2,2,3,5,3,10,10,1,10,7,7,3,7,3,1,7,9,5
+Masculino,31,Medios y Televisión,7,4,4,2,3,5,5,5,3,3,4,7,7,5,4,3,3,6,6,8
+Femenino,15,Música y Arte,7,1,1,1,10,1,9,1,7,3,4,2,6,6,9,5,9,5,2,10
+Masculino,38,Medios y Televisión,7,2,4,3,8,10,2,2,1,2,1,3,7,3,4,2,5,7,8,6
+Femenino,30,Lifestyle y Belleza,7,4,3,2,5,5,2,8,8,2,10,10,8,2,4,5,6,9,8,5
+Femenino,26,Lifestyle y Belleza,8,1,2,1,4,6,6,1,7,5,8,10,7,7,9,4,5,9,1,4
+Femenino,29,Lifestyle y Belleza,7,3,4,4,7,1,6,3,4,4,1,4,8,5,8,2,1,7,1,7
+Femenino,24,Lifestyle y Belleza,9,3,1,5,7,7,8,2,5,1,8,7,10,9,4,4,10,9,1,4
+Femenino,28,Lifestyle y Belleza,9,5,2,1,9,1,2,5,10,4,7,2,8,3,8,5,1,9,4,5
+Masculino,34,Deportes,6,7,6,10,9,2,9,4,1,6,9,3,3,8,8,8,4,6,4,5
+Femenino,33,Lifestyle y Belleza,9,3,5,2,5,2,2,7,4,2,8,7,8,6,7,5,3,9,8,1
+Femenino,29,Medios y Televisión,6,2,3,2,8,5,1,5,1,2,5,7,5,4,10,1,8,7,1,1
+Femenino,29,Música y Arte,7,3,5,1,10,10,10,8,1,2,8,10,4,9,6,3,7,5,10,3
+Femenino,25,Música y Arte,6,5,3,5,1,7,2,4,10,4,10,3,5,5,8,2,7,7,3,3
+Femenino,25,Medios y Televisión,3,4,4,2,9,1,7,6,1,1,3,1,5,10,7,3,8,4,1,2
+Femenino,25,Lifestyle y Belleza,7,5,2,4,8,10,8,4,7,2,10,3,10,6,5,1,10,10,9,2
+Femenino,29,Medios y Televisión,7,1,4,3,6,1,5,2,7,3,7,5,3,9,4,2,7,4,10,6
+Femenino,25,Medios y Televisión,6,3,3,3,3,1,6,1,4,1,4,7,3,7,2,3,10,3,9,1
+Femenino,29,Lifestyle y Belleza,8,1,3,2,3,6,1,1,2,3,5,4,7,5,8,3,2,9,7,6
+Femenino,38,Lifestyle y Belleza,10,1,3,5,8,2,6,8,3,1,9,1,8,2,9,2,4,8,8,5
+Femenino,32,Medios y Televisión,7,2,1,2,5,1,8,4,8,2,7,6,5,4,4,3,6,5,1,6
+Femenino,26,Lifestyle y Belleza,7,3,2,5,10,6,3,5,8,5,4,2,8,2,4,3,3,9,5,5
+Masculino,29,Deportes,3,10,7,8,7,2,1,8,6,6,6,3,3,3,5,8,3,3,2,7
+Femenino,25,Lifestyle y Belleza,7,4,4,5,5,6,4,7,10,4,10,4,10,10,2,3,6,9,1,1
+Femenino,17,Lifestyle y Belleza,7,1,5,2,8,10,1,8,9,4,7,6,7,3,7,3,1,8,3,3
+Femenino,22,Lifestyle y Belleza,8,4,3,4,10,8,8,8,9,1,10,6,9,4,5,4,1,8,7,6
+Masculino,28,Deportes,7,7,10,6,10,2,5,6,4,10,9,7,4,6,6,10,5,3,1,1
+Masculino,34,Deportes,4,6,7,8,4,9,1,10,1,6,4,5,3,3,4,9,1,4,2,7
+Femenino,28,Lifestyle y Belleza,10,5,4,2,2,8,8,2,1,3,10,7,7,10,8,4,10,10,2,4
+Femenino,36,Medios y Televisión,7,2,5,2,3,10,9,6,10,2,3,2,5,1,8,4,8,6,4,3
+Masculino,32,Deportes,4,8,6,7,8,1,10,1,5,10,8,1,6,1,5,8,2,7,3,10
+Femenino,26,Lifestyle y Belleza,10,2,2,4,7,7,2,1,2,4,1,10,10,9,6,3,6,9,3,9
+Femenino,32,Lifestyle y Belleza,9,1,1,1,2,10,9,3,6,3,9,8,8,9,3,3,10,7,10,1
+Femenino,16,Entretenimiento Digital,4,3,4,5,6,6,8,3,7,5,1,1,4,5,1,4,10,5,5,8
+Femenino,29,Lifestyle y Belleza,10,3,3,1,9,6,7,5,1,3,2,2,10,9,9,1,5,8,3,1
+Masculino,29,Deportes,3,10,8,6,4,6,3,1,6,10,8,10,5,7,9,6,10,4,7,5
+Masculino,42,Música y Arte,5,4,4,2,9,6,2,10,8,2,9,6,3,9,3,5,4,4,5,10
+Femenino,33,Medios y Televisión,3,3,4,3,2,10,7,6,5,5,7,1,7,7,4,2,1,3,4,8
+Femenino,29,Lifestyle y Belleza,9,4,4,2,2,7,5,7,7,1,3,10,9,9,7,2,3,10,3,6
+Femenino,25,Medios y Televisión,6,2,2,5,9,3,6,10,10,1,7,3,6,2,2,2,4,5,4,7
+Masculino,29,Deportes,7,6,9,6,7,6,4,3,6,10,6,7,5,8,3,7,2,3,2,8
+Masculino,46,Deportes,5,7,9,10,7,3,2,4,4,6,2,8,4,7,6,10,2,5,1,6
+Masculino,34,Deportes,3,10,6,6,1,7,9,10,7,9,3,4,4,6,8,6,2,7,3,6
+Masculino,35,Deportes,6,8,6,10,6,7,3,10,10,10,10,3,7,5,1,6,1,4,2,6
+Femenino,25,Medios y Televisión,4,1,2,4,7,8,7,10,9,3,10,1,4,4,4,3,10,4,1,5
+Femenino,23,Lifestyle y Belleza,9,2,2,2,6,2,8,10,10,4,5,9,7,7,1,5,2,7,1,8
+Femenino,32,Lifestyle y Belleza,7,4,2,5,6,9,2,10,10,5,10,10,7,3,2,4,6,7,2,2
+Masculino,30,Medios y Televisión,3,2,5,1,2,5,6,3,7,1,4,6,7,8,8,2,3,7,9,7
+Femenino,28,Medios y Televisión,6,3,4,2,6,9,8,1,5,4,2,6,6,2,6,3,10,6,5,4
+Femenino,25,Lifestyle y Belleza,10,4,3,1,4,10,7,8,7,5,4,9,8,1,9,2,5,8,9,1
+Femenino,30,Medios y Televisión,3,3,5,5,9,5,3,10,3,4,8,1,6,2,2,2,1,5,8,5
+Femenino,29,Lifestyle y Belleza,10,4,2,2,1,7,1,10,2,3,5,6,8,9,3,4,8,7,6,3
+Femenino,33,Medios y Televisión,4,5,5,5,8,9,6,2,5,2,5,5,5,5,9,2,4,4,1,4
+Femenino,25,Medios y Televisión,6,2,1,3,5,4,8,1,4,1,10,6,5,8,9,1,9,5,10,7
+Femenino,26,Música y Arte,5,1,2,5,1,2,6,8,5,3,3,8,4,3,6,3,4,5,5,5
+Femenino,23,Lifestyle y Belleza,10,4,1,3,4,9,5,7,8,3,8,5,9,7,3,3,2,8,1,4
+Femenino,25,Lifestyle y Belleza,7,4,2,2,1,2,8,7,4,5,6,2,9,2,5,1,3,8,7,1
+Femenino,29,Lifestyle y Belleza,9,3,5,3,6,3,2,4,9,4,2,2,7,8,2,4,5,7,10,6
+Masculino,38,Deportes,3,9,7,9,2,10,1,9,7,6,2,10,5,7,7,9,10,6,8,10
+Femenino,23,Lifestyle y Belleza,7,3,3,2,5,2,1,6,10,3,9,5,10,5,10,2,6,9,8,6
+Femenino,32,Música y Arte,7,3,1,4,7,3,4,2,7,5,7,3,3,4,8,3,7,5,7,7
+Masculino,31,Deportes,7,7,6,7,2,6,6,1,8,10,10,10,3,1,6,6,4,5,2,1
+Femenino,30,Lifestyle y Belleza,7,1,4,3,6,3,9,1,6,4,9,3,10,5,8,4,7,10,5,4
+Masculino,24,Entretenimiento Digital,3,3,5,4,6,10,1,9,8,3,6,8,6,9,2,4,10,6,4,9
+Femenino,24,Lifestyle y Belleza,10,3,1,4,5,8,1,4,3,3,5,7,10,10,3,2,3,7,5,10
+Femenino,21,Música y Arte,6,4,3,2,5,6,5,5,10,3,1,1,7,4,7,4,7,4,10,6
+Femenino,19,Lifestyle y Belleza,7,5,5,5,3,7,10,3,10,1,6,5,8,9,10,1,4,7,9,2
+Femenino,35,Lifestyle y Belleza,8,2,2,5,10,1,5,4,1,1,6,9,8,2,1,5,8,7,4,4
+Femenino,31,Lifestyle y Belleza,10,1,4,4,10,3,5,8,6,1,3,4,8,4,7,4,9,9,8,6
+Femenino,27,Lifestyle y Belleza,8,1,5,2,2,3,10,4,1,1,3,1,7,9,6,5,7,9,8,4
+Masculino,38,Música y Arte,6,5,4,5,7,2,6,9,9,5,3,8,7,4,8,2,8,5,2,10
+Femenino,22,Lifestyle y Belleza,9,4,2,2,1,7,8,9,2,2,3,5,9,5,7,4,8,8,6,7
+Masculino,33,Medios y Televisión,6,4,3,2,6,9,3,6,2,5,7,2,5,8,4,3,2,6,5,3
+Femenino,28,Lifestyle y Belleza,9,5,3,4,6,4,9,2,7,3,10,1,7,1,3,2,9,8,2,6
+Masculino,48,Deportes,3,10,7,6,3,5,1,10,2,6,2,3,5,1,3,8,6,5,10,4
+Femenino,31,Música y Arte,5,1,4,1,2,3,4,7,10,4,10,9,3,9,4,1,4,3,4,3
+Femenino,30,Lifestyle y Belleza,8,1,5,5,2,9,9,9,8,1,10,1,7,9,9,5,5,9,7,3
+Femenino,29,Medios y Televisión,3,2,2,5,9,4,8,6,6,4,2,4,5,4,9,5,10,7,1,2
+Femenino,24,Entretenimiento Digital,7,5,1,5,5,5,10,3,7,4,3,8,4,2,2,3,5,4,9,3
+Masculino,40,Medios y Televisión,5,3,4,3,7,1,9,7,7,3,10,8,5,9,5,3,7,5,10,10
+Femenino,37,Música y Arte,6,3,3,2,5,2,1,5,6,1,7,10,5,4,1,1,9,4,1,1
+Femenino,34,Lifestyle y Belleza,10,2,2,4,7,9,9,1,10,4,3,8,8,6,4,4,7,7,5,3
+Femenino,35,Lifestyle y Belleza,7,2,3,5,4,2,3,3,9,3,7,10,9,1,2,1,9,8,7,9
+Femenino,25,Lifestyle y Belleza,10,4,4,1,8,5,10,5,9,1,9,8,10,9,8,1,4,7,8,4
+Masculino,34,Medios y Televisión,7,2,3,5,10,8,9,7,7,2,10,4,4,5,4,3,10,6,2,3
+Masculino,26,Música y Arte,4,2,2,2,10,3,1,3,9,3,4,8,3,3,5,5,10,3,4,8
+Masculino,31,Deportes,4,8,10,7,7,6,1,6,10,10,7,9,3,4,4,10,4,6,2,1
+Femenino,33,Medios y Televisión,6,4,1,4,10,4,9,5,3,1,9,7,7,1,5,3,6,4,4,5
+Femenino,19,Lifestyle y Belleza,10,2,2,3,5,7,6,1,3,4,8,2,10,9,5,3,8,10,6,1
+Masculino,34,Medios y Televisión,6,2,5,4,6,10,4,10,1,4,8,9,7,8,5,1,9,4,6,7
+Femenino,27,Lifestyle y Belleza,7,4,2,5,5,3,7,6,5,5,9,8,9,4,3,4,1,7,2,5
+Masculino,35,Música y Arte,4,5,4,1,7,6,5,8,4,5,5,5,3,2,7,1,1,5,4,2
+Masculino,30,Medios y Televisión,6,4,2,4,2,10,10,1,2,4,5,3,3,9,3,2,8,4,4,1
+Masculino,38,Deportes,4,6,7,7,5,9,7,2,9,7,3,7,6,4,2,7,7,5,1,7
+Femenino,32,Lifestyle y Belleza,7,5,1,4,10,10,8,4,3,3,5,2,7,9,3,3,9,9,2,1
+Femenino,28,Lifestyle y Belleza,8,1,5,2,3,1,8,2,8,5,8,3,9,10,3,2,3,9,3,3
+Masculino,36,Deportes,6,6,8,6,9,3,1,9,6,6,5,9,4,3,8,10,10,5,5,6
+Femenino,21,Lifestyle y Belleza,8,3,4,5,6,2,8,10,5,5,4,4,10,7,4,3,5,9,8,6
+Femenino,26,Música y Arte,5,5,4,5,10,8,6,8,1,2,8,4,7,7,3,3,3,4,6,7
+Femenino,36,Lifestyle y Belleza,10,4,3,5,3,7,4,8,4,1,7,3,8,10,10,2,5,7,3,1
+Masculino,30,Medios y Televisión,3,2,1,5,7,2,8,4,3,1,6,5,5,4,5,1,10,6,6,7
+Femenino,20,Lifestyle y Belleza,9,4,1,5,4,6,3,5,1,1,5,3,7,2,4,3,1,9,7,2
+Femenino,26,Música y Arte,5,1,2,1,3,3,4,4,5,1,5,9,7,9,9,4,4,4,6,6
+Femenino,26,Medios y Televisión,4,4,5,3,8,8,6,9,6,1,10,3,7,4,8,2,6,3,10,8
+Femenino,14,Lifestyle y Belleza,10,5,5,5,4,10,7,2,2,4,2,2,7,8,7,5,2,10,6,5
+Masculino,21,Entretenimiento Digital,4,5,5,3,1,3,4,8,3,5,4,5,3,2,8,2,7,7,1,10
+Femenino,26,Lifestyle y Belleza,9,4,2,5,6,10,4,2,6,4,8,6,7,8,5,1,8,7,3,3
+Femenino,31,Lifestyle y Belleza,8,5,5,4,10,9,7,1,4,2,8,1,7,10,4,2,1,8,7,8
+Masculino,25,Deportes,3,7,9,8,1,1,6,10,9,6,1,6,7,5,7,9,4,3,4,8
+Masculino,16,Deportes,4,7,9,9,5,5,8,3,5,9,2,10,6,7,1,7,4,5,4,4
+Femenino,26,Lifestyle y Belleza,10,2,3,1,7,3,1,9,4,2,5,3,10,7,6,5,5,9,7,8
+Masculino,22,Música y Arte,7,2,2,4,6,6,10,3,2,4,9,4,7,9,8,2,4,6,9,5
+Femenino,40,Medios y Televisión,5,3,5,4,2,10,7,9,6,3,10,6,6,3,7,5,9,4,2,5
+Femenino,28,Medios y Televisión,5,4,3,2,4,2,7,7,10,2,7,8,4,10,2,2,7,3,9,3
+Masculino,27,Deportes,7,10,8,8,2,9,7,10,2,7,10,9,6,4,7,9,2,7,3,7
+Masculino,47,Deportes,7,8,8,6,1,6,7,1,7,9,5,6,4,10,6,7,1,4,6,9
+Masculino,38,Medios y Televisión,6,3,2,4,3,7,10,10,3,4,1,7,7,4,5,1,9,3,4,9
+Masculino,29,Deportes,6,6,9,8,3,5,10,5,9,10,6,5,4,10,4,9,1,3,1,1
+Femenino,25,Lifestyle y Belleza,9,4,5,4,7,9,8,9,5,2,8,9,7,5,1,3,6,10,9,1
+Femenino,25,Lifestyle y Belleza,7,1,3,5,1,1,9,3,8,4,7,4,8,6,2,5,2,10,6,10
+Masculino,22,Entretenimiento Digital,3,1,4,4,9,5,9,9,6,5,2,10,3,3,7,5,4,5,8,5
+Femenino,25,Lifestyle y Belleza,8,2,5,4,6,10,2,5,10,4,5,6,10,4,10,2,6,7,2,1
+Masculino,39,Deportes,6,6,10,8,4,6,7,9,8,10,4,5,5,3,3,9,5,6,7,4
+Masculino,49,Medios y Televisión,6,2,3,5,3,7,7,10,3,5,9,1,3,2,5,1,6,5,6,1
+Masculino,41,Deportes,3,8,9,7,3,4,4,6,3,7,10,5,7,10,8,6,3,3,2,2
+Femenino,35,Lifestyle y Belleza,7,2,2,2,2,1,9,9,5,5,1,5,7,9,8,1,5,7,2,2
+Femenino,14,Lifestyle y Belleza,8,1,4,5,2,8,8,7,10,5,6,9,10,1,6,3,2,10,4,4
+Femenino,33,Lifestyle y Belleza,10,5,4,2,10,10,1,7,3,5,3,1,10,2,5,4,7,8,4,8
+Femenino,34,Medios y Televisión,3,1,3,5,5,4,2,8,8,2,9,5,4,8,2,1,3,7,3,2
+Femenino,17,Música y Arte,4,2,5,2,9,3,2,7,10,3,5,7,6,7,9,3,1,7,8,9
+Femenino,26,Lifestyle y Belleza,9,3,3,3,2,7,8,9,8,2,6,6,10,1,1,5,8,9,7,9
+Femenino,26,Música y Arte,6,4,5,2,2,2,1,9,2,5,9,6,6,5,2,2,8,5,2,2
+Femenino,20,Entretenimiento Digital,6,1,5,4,6,8,4,6,4,3,9,7,3,10,1,4,3,7,3,1
+Femenino,24,Entretenimiento Digital,3,2,3,5,10,6,10,7,10,3,8,6,4,6,4,4,7,4,10,10
+Femenino,22,Lifestyle y Belleza,10,5,1,1,2,7,5,2,1,5,9,5,8,5,4,5,9,10,9,10
+Femenino,36,Lifestyle y Belleza,7,1,4,1,4,5,9,9,4,3,4,10,10,4,5,4,8,7,5,9
+Masculino,25,Música y Arte,4,1,5,5,6,9,7,1,4,3,6,5,6,1,5,4,3,7,2,2
+Femenino,34,Medios y Televisión,5,4,5,3,5,5,8,1,10,2,5,9,3,7,8,4,2,5,3,8
+Femenino,31,Lifestyle y Belleza,7,2,1,2,1,5,9,3,9,3,5,8,9,9,3,4,10,9,8,3
+Femenino,22,Lifestyle y Belleza,9,3,2,3,6,3,7,6,3,5,4,10,9,6,6,3,7,7,4,1
+Masculino,38,Deportes,4,9,8,9,1,1,5,5,2,8,2,4,6,3,3,8,7,5,2,1
+Femenino,30,Música y Arte,7,2,1,5,3,2,5,2,9,1,6,4,7,10,2,2,9,4,2,10
+Femenino,21,Música y Arte,7,5,5,5,10,8,10,9,9,1,9,10,6,4,8,4,5,3,6,2
+Femenino,31,Lifestyle y Belleza,7,1,4,3,5,1,6,10,1,5,1,5,8,10,1,5,4,9,8,7
+Femenino,26,Lifestyle y Belleza,7,4,1,3,10,7,5,4,6,1,7,3,10,5,9,1,8,7,7,6
+Femenino,26,Medios y Televisión,7,4,2,2,5,5,9,4,10,2,6,8,7,1,7,2,4,7,4,2
+Femenino,31,Medios y Televisión,5,3,3,4,10,3,3,5,8,5,3,7,5,5,10,1,4,4,2,4
+Femenino,30,Lifestyle y Belleza,8,4,1,4,6,7,3,8,3,5,1,5,7,1,4,1,2,7,9,2
+Masculino,32,Medios y Televisión,6,1,1,2,10,9,7,10,9,5,4,10,3,9,3,4,1,4,4,1
+Masculino,22,Música y Arte,7,3,2,4,8,2,7,4,2,3,9,3,4,7,6,5,4,3,9,3
+Femenino,22,Lifestyle y Belleza,7,2,4,1,5,8,6,5,6,3,2,5,8,3,9,1,7,9,5,4
+Femenino,31,Lifestyle y Belleza,7,4,1,4,1,9,3,4,1,3,3,3,7,9,9,1,9,9,7,10
+Masculino,20,Deportes,3,6,6,10,5,3,7,6,7,8,2,10,7,2,4,9,9,6,5,5
+Femenino,26,Medios y Televisión,3,1,4,4,3,2,5,3,3,2,2,5,6,7,10,5,10,4,2,5
+Femenino,29,Lifestyle y Belleza,8,5,2,5,4,7,7,8,7,5,10,1,10,9,5,5,1,9,6,7
+Femenino,21,Música y Arte,7,5,1,3,8,5,2,6,4,5,8,6,6,6,9,1,5,3,7,10
+Femenino,32,Medios y Televisión,4,1,4,1,7,5,6,10,9,3,3,10,6,10,2,5,7,5,6,8
+Masculino,41,Deportes,5,9,9,7,5,10,8,5,5,7,7,4,4,5,2,10,7,7,3,9
+Masculino,32,Música y Arte,6,5,3,5,2,5,1,2,3,5,8,4,6,7,5,2,10,4,10,7
+Femenino,33,Lifestyle y Belleza,9,3,5,2,6,4,4,10,8,1,3,8,9,6,1,2,6,8,8,5
+Femenino,24,Lifestyle y Belleza,9,5,3,3,6,5,1,10,6,5,2,2,9,5,8,4,10,8,3,9
+Femenino,20,Música y Arte,6,1,1,3,10,4,1,7,2,4,8,4,5,2,5,1,4,6,5,8
+Femenino,20,Música y Arte,5,4,2,1,10,6,10,2,3,3,3,2,7,8,10,5,3,3,9,10
+Femenino,31,Lifestyle y Belleza,8,2,5,2,6,4,8,1,8,2,7,1,7,7,2,2,9,10,5,9
+Femenino,21,Entretenimiento Digital,5,4,3,1,9,2,7,7,10,2,1,10,7,6,9,1,10,7,7,10
+Masculino,27,Música y Arte,4,4,4,4,8,9,10,5,7,1,6,3,7,5,2,1,4,4,7,8
+Femenino,17,Lifestyle y Belleza,9,1,2,5,8,2,1,1,10,2,9,8,10,5,7,4,8,8,5,6
+Femenino,36,Música y Arte,6,5,3,1,1,9,2,4,6,2,3,6,7,9,8,5,1,4,2,4
+Masculino,23,Deportes,5,7,6,8,5,10,4,4,1,7,7,7,3,1,6,7,7,5,5,9
+Masculino,27,Deportes,7,9,8,7,7,6,1,10,9,6,6,2,6,9,7,6,6,6,7,9
+Femenino,25,Lifestyle y Belleza,8,5,4,4,6,9,3,7,3,4,8,6,9,6,1,2,1,7,7,10
+Femenino,29,Música y Arte,4,3,3,2,5,9,8,9,5,1,3,8,7,4,4,1,4,7,4,10
+Femenino,27,Medios y Televisión,5,4,3,4,8,3,8,2,7,2,3,8,5,10,7,5,5,3,1,9
+Femenino,33,Lifestyle y Belleza,7,3,1,4,3,1,8,1,7,4,4,4,10,7,1,5,8,10,6,10
+Femenino,28,Lifestyle y Belleza,10,5,4,5,6,1,6,2,3,1,3,6,9,9,1,2,4,9,3,3
+Masculino,33,Medios y Televisión,6,2,4,2,5,3,6,7,4,2,9,5,4,5,6,3,3,5,5,3
+Femenino,26,Lifestyle y Belleza,9,5,1,2,8,5,5,10,10,2,4,9,7,5,4,1,2,7,4,6
+Femenino,27,Música y Arte,5,1,4,1,4,3,9,6,7,3,6,8,4,8,3,5,4,5,2,6
+Femenino,29,Medios y Televisión,7,3,1,2,8,9,4,4,8,5,8,2,5,7,5,4,10,7,7,6
+Femenino,19,Música y Arte,5,2,2,1,10,9,10,1,2,1,8,7,6,8,9,4,4,5,5,5
+Masculino,36,Música y Arte,7,3,3,3,2,3,7,1,9,2,5,7,4,10,10,3,10,7,7,5
+Masculino,34,Deportes,4,9,10,8,9,3,1,5,7,6,5,1,3,2,10,6,5,4,9,2
+Femenino,28,Música y Arte,3,4,5,3,9,5,9,1,8,4,6,1,7,9,10,2,7,6,4,7
+Femenino,27,Medios y Televisión,5,1,5,2,10,2,7,7,6,4,10,4,5,3,3,2,9,3,5,4
+Femenino,28,Medios y Televisión,5,3,5,2,10,6,10,1,6,5,7,5,3,6,5,4,2,4,9,3
+Femenino,29,Lifestyle y Belleza,7,5,1,1,6,7,9,1,9,2,10,4,7,6,10,2,5,10,10,8
+Femenino,25,Música y Arte,4,5,4,4,4,9,7,2,4,3,7,7,7,2,5,4,10,3,4,4
+Femenino,24,Lifestyle y Belleza,8,4,2,1,4,6,2,10,5,2,4,3,8,7,9,3,9,7,5,4
+Femenino,28,Lifestyle y Belleza,9,1,2,3,6,3,6,3,9,1,6,7,10,9,10,1,3,10,5,8
+Femenino,23,Lifestyle y Belleza,10,1,2,1,5,5,10,1,1,4,7,8,9,10,4,5,1,10,8,1
+Femenino,30,Lifestyle y Belleza,9,5,2,4,6,4,4,9,4,1,5,6,8,1,1,3,2,10,4,9
+Femenino,19,Música y Arte,3,2,5,2,7,5,3,10,7,5,5,6,6,8,10,4,6,4,4,7
+Femenino,33,Medios y Televisión,5,4,2,1,7,8,2,8,9,4,2,8,5,2,5,3,5,7,7,2
+Femenino,30,Música y Arte,3,4,4,3,9,8,6,5,10,3,7,8,7,1,1,5,1,3,5,6
+Femenino,29,Lifestyle y Belleza,10,5,5,3,8,6,8,2,6,4,6,7,7,8,6,1,1,7,6,8
+Masculino,28,Entretenimiento Digital,6,5,2,2,6,1,6,5,8,2,1,6,4,2,10,5,4,5,6,5
+Femenino,36,Lifestyle y Belleza,10,2,1,1,6,8,9,6,9,2,4,6,10,6,10,4,4,7,6,6
+Femenino,33,Música y Arte,7,2,3,4,5,8,5,1,10,4,3,10,7,6,7,5,6,7,10,10
+Femenino,18,Entretenimiento Digital,6,1,3,2,1,2,2,4,4,5,3,6,7,5,1,3,6,4,5,8
+Femenino,21,Música y Arte,3,4,3,1,9,4,8,9,1,2,7,8,5,8,10,2,10,4,5,6
+Femenino,24,Música y Arte,7,4,5,5,9,2,9,2,8,2,10,1,4,3,4,3,6,6,9,9
+Femenino,28,Lifestyle y Belleza,9,5,2,3,9,4,10,5,2,3,4,5,10,10,9,4,1,9,8,9
+Masculino,27,Deportes,6,6,9,8,8,10,4,1,1,8,8,3,3,4,1,9,10,4,4,9
+Femenino,24,Entretenimiento Digital,7,4,4,4,10,7,6,4,7,2,9,8,7,7,9,5,9,7,7,6
+Femenino,28,Lifestyle y Belleza,7,1,1,4,3,9,10,4,10,5,3,6,10,7,8,1,7,7,8,9
+Femenino,24,Lifestyle y Belleza,10,1,1,3,1,8,8,6,9,1,5,2,7,8,5,4,7,10,9,3
+Femenino,24,Lifestyle y Belleza,10,5,3,1,8,9,9,10,9,4,4,7,9,2,6,5,7,10,5,5
+Femenino,20,Entretenimiento Digital,5,1,3,2,7,8,5,9,3,3,10,7,7,2,7,3,2,7,3,2
+Masculino,34,Deportes,7,7,10,6,5,2,6,3,6,6,6,5,6,4,4,6,2,3,4,8
+Femenino,21,Lifestyle y Belleza,7,2,2,2,10,7,4,9,7,5,10,8,8,10,6,4,6,8,10,4
+Masculino,18,Entretenimiento Digital,6,3,4,4,7,2,5,6,10,4,4,5,7,9,7,5,7,3,6,6
+Masculino,34,Música y Arte,4,5,4,1,10,2,7,7,9,5,8,1,4,10,6,3,3,3,10,6
+Femenino,23,Lifestyle y Belleza,9,3,4,4,4,4,9,10,2,5,3,9,9,9,6,4,4,7,5,5
+Femenino,41,Lifestyle y Belleza,9,2,4,5,9,1,10,2,8,3,5,4,8,4,2,4,3,10,9,1
+Femenino,30,Lifestyle y Belleza,10,3,3,4,10,5,6,10,7,4,1,2,10,9,5,1,7,7,3,7
+Femenino,28,Lifestyle y Belleza,9,5,1,4,2,6,6,6,4,2,6,4,10,3,3,3,7,7,2,10
+Femenino,23,Lifestyle y Belleza,7,5,3,2,9,9,8,6,2,3,5,9,8,5,7,5,4,10,6,8
+Femenino,31,Medios y Televisión,5,1,4,5,9,10,4,2,8,2,8,2,4,10,4,3,7,6,7,1
+Femenino,25,Medios y Televisión,6,4,3,4,5,8,3,2,5,1,9,4,7,9,1,3,5,4,5,10
+Femenino,28,Medios y Televisión,7,1,4,4,1,2,7,2,6,5,8,2,4,6,6,3,1,4,1,7
+Masculino,35,Deportes,7,10,9,9,7,1,5,10,7,7,8,5,3,3,6,7,10,4,3,4
+Femenino,27,Medios y Televisión,4,2,1,5,10,2,2,1,10,5,3,3,6,10,7,2,4,4,3,6
+Masculino,33,Deportes,6,10,9,9,10,7,2,5,1,10,4,10,4,9,8,9,7,4,4,9
+Femenino,24,Entretenimiento Digital,3,1,2,2,4,4,6,8,8,2,4,2,7,6,3,1,2,3,10,5
+Femenino,27,Medios y Televisión,5,5,3,5,9,10,8,2,4,2,5,9,6,4,6,3,2,5,6,8
+Femenino,36,Lifestyle y Belleza,8,2,2,5,6,5,1,5,9,3,9,5,9,4,10,2,1,9,5,5
+Femenino,24,Música y Arte,5,5,3,3,3,7,6,8,1,4,9,10,7,8,2,1,2,7,1,2
+Masculino,40,Deportes,3,8,9,7,6,3,2,10,2,6,10,5,4,7,9,7,10,6,6,4
+Masculino,39,Medios y Televisión,3,5,4,2,10,10,2,5,6,1,1,1,6,1,2,3,8,7,9,2
+Masculino,36,Deportes,7,8,8,9,6,2,7,2,10,10,8,6,7,6,3,9,8,7,1,7
+Femenino,31,Lifestyle y Belleza,7,5,3,4,5,7,10,3,1,2,1,7,7,8,10,4,8,10,8,7
+Femenino,32,Música y Arte,5,5,4,4,2,5,1,6,4,2,2,1,6,3,2,1,1,3,8,3
+Masculino,40,Deportes,6,9,7,9,10,1,6,5,8,9,7,9,6,9,9,8,1,4,3,7
+Masculino,32,Música y Arte,6,3,4,3,10,1,7,4,10,4,8,8,4,10,1,5,10,3,9,1
+Masculino,48,Deportes,7,9,8,8,2,9,8,4,5,6,1,8,7,2,5,10,4,4,8,1
+Femenino,26,Medios y Televisión,5,1,2,4,7,5,7,5,9,5,3,7,3,6,1,1,6,5,3,9
+Femenino,27,Medios y Televisión,5,4,5,1,2,1,6,2,6,3,7,5,3,1,5,5,8,7,10,6
+Masculino,29,Deportes,3,7,9,7,6,7,9,9,1,7,9,3,4,2,8,6,2,6,5,5
+Femenino,28,Lifestyle y Belleza,7,4,1,5,5,9,3,2,6,4,8,9,8,5,8,4,3,8,3,6
+Masculino,30,Deportes,4,8,7,7,4,1,6,10,6,8,8,7,6,1,8,9,6,4,5,6
+Masculino,36,Deportes,3,8,8,10,7,10,4,2,6,8,9,10,7,8,2,6,10,3,9,1
+Femenino,31,Lifestyle y Belleza,8,1,3,2,8,4,2,10,8,3,10,10,7,1,8,3,4,10,4,5
+Masculino,26,Entretenimiento Digital,7,1,3,2,4,3,1,9,6,1,3,8,5,9,5,5,2,7,6,9
+Masculino,22,Música y Arte,6,4,5,5,1,5,1,3,5,1,8,6,5,10,1,4,7,5,3,4
+Femenino,32,Música y Arte,7,1,3,2,1,7,10,10,2,4,1,5,3,3,7,3,4,7,3,3
+Masculino,35,Medios y Televisión,6,1,2,2,1,8,3,7,4,5,8,8,5,2,6,5,8,4,5,1
+Femenino,27,Medios y Televisión,7,4,1,1,1,2,4,4,10,4,7,3,5,1,5,3,8,7,8,2
+Masculino,16,Entretenimiento Digital,5,3,5,5,5,7,2,6,5,1,8,7,3,9,1,5,7,3,8,3
+Femenino,30,Lifestyle y Belleza,9,3,1,5,4,1,1,4,10,3,1,2,9,4,1,1,10,7,3,4
+Masculino,49,Música y Arte,6,2,3,2,9,7,4,10,4,4,6,3,5,1,6,1,9,5,8,7
+Femenino,29,Medios y Televisión,3,1,5,2,3,8,7,7,2,5,7,2,7,1,10,4,4,3,8,6
+Femenino,21,Música y Arte,4,4,4,2,7,2,10,1,7,1,5,5,5,7,7,2,7,7,3,8
+Masculino,32,Deportes,3,10,7,10,8,9,6,3,10,10,5,7,6,2,10,8,10,3,10,9
+Femenino,33,Lifestyle y Belleza,9,5,3,4,6,1,6,3,10,4,7,10,7,7,10,2,10,10,10,6
+Femenino,27,Lifestyle y Belleza,7,1,3,3,10,6,9,1,2,4,3,10,8,7,1,3,1,7,2,7
+Masculino,29,Música y Arte,7,1,2,5,1,1,2,6,1,4,6,1,4,10,9,3,4,7,10,4
+Masculino,33,Medios y Televisión,6,3,2,1,8,3,4,9,5,3,7,10,6,9,4,2,2,3,2,2
+Femenino,28,Lifestyle y Belleza,9,4,4,4,10,6,5,8,1,5,1,9,8,7,5,4,9,8,9,9
+Femenino,32,Música y Arte,4,1,3,1,3,3,1,7,1,5,2,1,4,1,2,5,5,3,7,9
+Femenino,25,Lifestyle y Belleza,9,3,3,5,8,8,8,10,1,1,4,1,9,8,10,2,3,10,6,4
+Femenino,28,Lifestyle y Belleza,9,2,1,5,4,5,8,8,6,2,8,10,8,8,8,2,4,10,7,3
+Femenino,25,Lifestyle y Belleza,10,3,5,1,8,2,6,6,9,3,10,8,10,4,2,2,6,9,8,10
+Femenino,25,Medios y Televisión,3,3,5,1,1,4,5,9,10,1,6,6,3,8,3,2,10,6,1,6
+Masculino,25,Música y Arte,7,3,1,1,3,9,8,3,1,1,1,6,5,4,9,2,1,7,8,3
+Masculino,32,Deportes,4,10,6,10,6,4,3,10,5,10,10,9,5,8,2,6,7,7,3,1
+Masculino,31,Música y Arte,3,1,2,2,9,10,3,10,9,2,5,4,4,5,6,1,8,7,3,4
+Femenino,34,Lifestyle y Belleza,9,2,5,1,2,10,2,9,9,2,7,8,8,4,4,5,7,9,6,1
+Femenino,23,Entretenimiento Digital,4,5,5,4,1,8,5,4,1,3,6,4,4,6,7,1,7,5,4,2
+Femenino,27,Medios y Televisión,7,5,1,5,10,5,3,7,8,2,9,2,7,2,6,2,9,3,4,3
+Femenino,25,Medios y Televisión,3,5,4,3,3,10,3,9,1,1,8,8,7,2,10,1,4,7,4,8
+Femenino,35,Lifestyle y Belleza,8,2,5,3,4,1,6,2,8,2,4,7,10,2,9,4,7,8,10,10
+Masculino,35,Música y Arte,6,5,5,4,5,7,8,2,1,2,5,4,4,9,9,3,9,7,9,4
+Femenino,33,Medios y Televisión,7,5,4,2,3,3,2,9,5,5,7,9,6,10,10,1,5,6,8,4
+Femenino,20,Lifestyle y Belleza,9,3,1,1,10,10,4,3,8,1,8,9,7,3,4,5,2,9,3,10
+Femenino,29,Medios y Televisión,5,1,4,5,2,8,7,9,6,2,5,8,7,10,1,4,5,3,1,9
+Masculino,29,Deportes,7,6,6,7,2,3,1,5,9,8,9,1,4,4,2,10,4,7,1,7
+Femenino,28,Música y Arte,5,3,2,5,7,1,1,6,1,4,10,7,7,10,8,4,8,3,1,2
+Femenino,33,Lifestyle y Belleza,9,3,1,3,9,5,10,2,9,2,4,5,7,8,10,2,5,8,4,3
+Femenino,25,Medios y Televisión,4,3,2,1,10,2,7,8,1,2,4,7,6,4,8,3,9,5,6,4
+Masculino,35,Medios y Televisión,5,1,2,4,2,4,7,9,10,5,8,9,3,10,2,5,9,6,4,4
+Femenino,39,Lifestyle y Belleza,10,5,1,2,7,1,1,2,10,1,1,2,8,10,4,3,3,8,3,10
+Masculino,35,Deportes,7,10,8,6,7,9,1,6,3,7,8,4,7,7,1,10,10,4,8,8
+Masculino,32,Deportes,6,8,9,6,7,6,4,6,1,8,5,4,5,5,7,10,6,5,8,10
+Femenino,35,Lifestyle y Belleza,10,3,5,1,3,8,5,8,3,4,1,2,7,9,4,5,6,9,6,10
+Femenino,35,Lifestyle y Belleza,10,4,5,1,7,4,5,10,2,1,4,3,10,4,8,4,4,8,9,6
+Masculino,30,Medios y Televisión,7,3,3,2,1,9,4,5,2,2,2,8,3,3,9,1,10,3,10,3
+Femenino,25,Lifestyle y Belleza,7,1,2,3,10,2,8,9,9,4,4,9,7,2,9,4,3,9,1,9
+Femenino,26,Lifestyle y Belleza,7,3,3,5,1,9,7,1,8,1,8,6,8,1,3,4,1,9,8,10
+Masculino,42,Medios y Televisión,6,4,5,4,5,5,9,9,1,4,5,10,6,6,5,3,7,4,6,8
+Masculino,40,Deportes,4,9,9,8,2,6,7,10,4,9,1,2,3,10,6,6,5,4,1,9
+Masculino,30,Música y Arte,6,5,1,4,9,3,10,7,1,1,7,2,5,2,6,1,10,4,4,5
+Masculino,42,Música y Arte,7,3,3,1,7,4,1,4,1,2,1,7,4,8,10,5,7,3,5,3
+Femenino,27,Medios y Televisión,7,4,2,4,4,6,7,3,4,4,9,8,3,6,8,3,1,3,7,4
+Femenino,29,Lifestyle y Belleza,9,4,1,5,4,7,1,10,2,5,3,8,10,5,6,2,8,7,8,5
+Masculino,27,Música y Arte,5,2,4,5,2,1,7,6,3,4,3,6,4,2,6,1,3,4,9,9
+Femenino,23,Lifestyle y Belleza,9,1,5,2,5,7,10,1,9,5,6,10,7,7,4,4,7,10,6,9
+Femenino,32,Lifestyle y Belleza,9,3,5,1,4,1,8,3,2,2,10,8,7,2,7,2,3,8,10,3
+Masculino,33,Deportes,5,8,7,7,1,5,9,2,4,8,6,1,4,5,8,10,3,3,9,7
+Femenino,27,Medios y Televisión,6,2,1,3,8,6,3,9,1,5,6,9,4,2,3,2,10,6,4,6
+Femenino,31,Lifestyle y Belleza,9,5,4,1,3,2,4,3,2,3,1,1,8,10,7,4,9,8,8,4
+Femenino,22,Música y Arte,5,4,1,1,6,10,4,2,5,4,5,3,4,2,3,5,2,3,3,5
+Femenino,29,Música y Arte,7,2,5,5,4,9,9,4,10,2,6,9,5,7,8,3,4,3,4,10
+Femenino,28,Música y Arte,3,1,1,3,9,10,7,2,1,5,8,5,4,9,1,5,6,3,10,2
+Femenino,30,Lifestyle y Belleza,9,1,4,2,7,6,3,1,7,4,1,9,8,5,1,1,3,10,4,7
+Femenino,29,Lifestyle y Belleza,10,4,3,5,9,7,10,6,4,1,5,9,7,7,6,3,10,9,6,4
+Femenino,40,Medios y Televisión,7,4,2,3,10,10,5,10,6,4,3,6,3,4,10,1,10,3,9,2
+Masculino,22,Deportes,6,8,6,10,3,8,7,8,8,10,2,1,5,2,9,10,7,5,6,6
+Femenino,25,Lifestyle y Belleza,8,2,2,3,1,10,8,10,6,2,8,10,9,3,4,5,7,10,1,2
+Masculino,23,Deportes,7,6,10,7,5,1,1,10,2,8,7,7,7,2,6,6,5,7,5,10
+Femenino,25,Música y Arte,4,3,3,5,3,8,2,2,1,4,10,6,4,5,5,3,3,3,9,2
+Femenino,24,Música y Arte,6,3,3,5,6,4,7,9,8,1,7,9,4,6,1,2,2,7,5,7
+Masculino,37,Música y Arte,5,4,1,4,8,10,2,3,8,3,5,7,6,7,6,1,4,5,6,1
+Femenino,35,Música y Arte,4,1,3,4,4,8,7,8,9,4,9,4,5,3,9,2,4,6,3,7
+Masculino,13,Deportes,3,6,10,9,5,6,9,8,6,8,5,7,6,4,3,7,8,6,8,10
+Femenino,23,Música y Arte,3,2,1,5,5,9,2,3,1,2,2,2,7,8,3,4,8,7,10,5
+Masculino,34,Deportes,7,9,8,9,4,4,7,3,9,10,3,6,4,4,2,9,5,3,4,1
+Femenino,25,Lifestyle y Belleza,8,4,3,5,4,2,4,6,3,1,4,6,10,7,4,5,6,10,4,6
+Masculino,33,Deportes,7,6,9,8,4,2,2,1,6,9,5,2,4,6,10,10,8,6,5,7
+Femenino,29,Medios y Televisión,7,4,2,5,4,5,7,4,10,4,3,4,3,7,3,4,1,4,10,1
+Masculino,36,Medios y Televisión,7,4,4,5,4,10,5,1,10,2,7,8,7,1,2,4,5,6,9,9
+Femenino,35,Música y Arte,3,3,2,1,5,9,1,3,9,2,5,8,4,3,1,5,4,3,8,7
+Femenino,36,Lifestyle y Belleza,7,1,2,1,2,3,5,9,3,5,5,8,10,6,3,3,4,8,7,1
+Masculino,40,Medios y Televisión,7,4,1,1,2,8,3,5,5,2,6,8,4,3,10,5,2,6,5,3
+Femenino,26,Medios y Televisión,3,5,5,5,9,4,7,5,5,2,7,1,5,7,6,2,10,7,9,5
+Femenino,29,Lifestyle y Belleza,10,1,5,2,2,6,6,4,10,3,10,2,8,9,9,2,1,8,9,4
+Femenino,29,Medios y Televisión,7,2,5,3,6,10,8,3,7,2,10,4,6,3,5,4,6,3,10,2
+Femenino,31,Lifestyle y Belleza,7,3,2,3,2,6,5,5,4,1,8,9,10,1,3,4,7,10,10,1
+Femenino,38,Lifestyle y Belleza,8,2,1,2,5,3,2,4,4,4,9,3,10,10,5,5,5,10,2,4
+Femenino,27,Lifestyle y Belleza,9,2,3,2,4,5,9,8,7,3,4,6,8,6,5,5,8,8,4,7
+Masculino,43,Deportes,7,8,10,6,7,3,8,4,9,8,5,7,4,1,5,9,9,3,8,4
+Femenino,21,Lifestyle y Belleza,9,2,2,4,7,1,6,8,4,1,5,8,10,1,7,2,2,9,1,9
+Femenino,24,Música y Arte,5,4,1,1,6,7,10,6,4,4,8,7,3,8,5,5,4,7,5,8
+Masculino,42,Música y Arte,5,2,4,1,10,4,7,5,6,3,9,3,7,9,7,3,9,7,8,8
+Masculino,30,Medios y Televisión,6,3,2,3,5,7,9,4,6,1,7,6,4,2,9,1,5,3,2,5
+Femenino,25,Medios y Televisión,6,3,4,2,1,3,7,4,7,2,5,5,6,9,5,5,3,6,2,1
+Femenino,29,Lifestyle y Belleza,10,5,4,4,3,5,3,4,1,5,3,10,9,5,2,4,6,7,8,9
+Femenino,27,Medios y Televisión,5,3,5,3,9,5,6,9,3,5,1,4,6,8,5,5,3,3,10,2
+Femenino,33,Lifestyle y Belleza,8,2,1,1,1,2,7,4,9,3,9,1,9,7,8,4,5,7,9,6
+Femenino,40,Lifestyle y Belleza,9,3,4,5,5,10,2,9,6,1,5,7,10,7,4,4,3,8,7,10
+Femenino,25,Lifestyle y Belleza,9,1,1,2,2,2,3,10,6,4,9,8,8,4,2,2,6,8,8,5
+Femenino,25,Lifestyle y Belleza,7,3,5,5,4,4,4,6,5,1,10,2,10,2,10,2,10,10,5,10
+Femenino,33,Lifestyle y Belleza,10,4,1,3,1,4,10,10,3,5,4,7,10,5,3,5,5,7,1,8
+Masculino,37,Deportes,4,7,8,10,3,4,6,7,5,7,5,6,6,3,9,9,9,6,4,3
+Masculino,34,Deportes,7,6,9,9,10,6,1,10,1,10,4,5,5,9,9,10,3,6,2,6
